@@ -2,7 +2,9 @@
 
 # MD Harrington Bexleyheath Kent London UK 
 
-
+<p align="center">
+  <img src="GPGCorrection.png" alt="Centered Image">
+</p>
 ---
 A Bash utility for diagnosing and repairing a stuck/locked GPG keyring, and
 for backing up and restoring your GPG keys, trust database, revocation
